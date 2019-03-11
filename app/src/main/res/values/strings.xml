@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">UAS Muhamad Riyan Afriyanto</string>
+    <string name="Simpan">Simpan</string>
+    <string name="Kosong">Kosong</string>
+
+    <string-array name="programming">
+        <item>Workshop SQL Server</item>
+        <item>Web PHP</item>
+        <item>Java dengan JFrame</item>
+        <item>Oracle</item>
+    </string-array>
+</resources>
